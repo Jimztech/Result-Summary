@@ -17,6 +17,7 @@
     --color-dark-gray-blue: hsl(224, 30%, 27%);
 }
 
+/* font styling*/
 @font-face {
     font-family: "HankenGrotesk";
     font-style: normal;
